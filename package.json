@@ -33,7 +33,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.11.2",
     "customize-cra": "^0.2.12",
     "node-sass": "^4.12.0",
